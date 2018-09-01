@@ -6,4 +6,4 @@ if u use this script go in your tirminal and download hem
 root@kali : git clone https://github.com/3x9l0itDZ/Email-Mr.Robot.git
 root@kali : cd Email-Mr.Robot
 in open this script you need to password list 
-and email of victime to hack hem
+and email of victime to hack hem . 
